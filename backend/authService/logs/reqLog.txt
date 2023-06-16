@@ -507,3 +507,9 @@
 20230614	02:02:50	691aef2a-dca6-4881-9f52-99b65c4b76ca	GET	http://localhost:3000	/users
 20230614	02:02:57	f5ac9b91-468b-4857-96f9-6594e44c8c49	OPTIONS	http://localhost:3000	/users
 20230614	02:02:57	00296d8c-e04f-49e5-87df-fa8985a2defe	GET	http://localhost:3000	/users
+20230615	22:11:37	37c20499-c4d9-4801-8652-141c46ad9c0f	GET	undefined	/
+20230615	22:11:37	a5f3b047-a44c-4bac-b295-3d7d53fac47b	GET	undefined	/css/style.css
+20230615	22:11:38	6c0ce28a-f812-4d19-886b-27317b79e6f9	GET	undefined	/favicon.ico
+20230616	08:40:46	2d715548-7a65-4ec0-8bf4-ae7e0c5b25ec	GET	undefined	/
+20230616	08:40:46	651ea14e-f695-4bc3-9334-64c96d6562c7	GET	undefined	/css/style.css
+20230616	08:40:46	1e40249e-a3f8-4263-83aa-8d4ed202be88	GET	undefined	/favicon.ico
